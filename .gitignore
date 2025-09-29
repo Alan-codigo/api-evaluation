@@ -1,0 +1,10 @@
+env
+**/datasets/** 
+.DS_Store
+venv
+.vs
+__pycache__
+.env
+*.wav
+*.gguf
+**/db/**
